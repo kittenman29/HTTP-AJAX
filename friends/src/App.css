@@ -23,6 +23,20 @@
   color: #61dafb;
 }
 
+.friend-card {
+  border: 1px solid black;
+  max-width: 300px;
+}
+
+.friend-form {
+  display: block;
+}
+
+.friend-form input {
+  display: block;
+  margin: 0 auto;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
